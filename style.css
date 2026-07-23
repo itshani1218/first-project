@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    background-color: #222;
+}
+
+#names {
+    color: white;
+    font-size: 60px;
+    font-family: Arial, sans-serif;
+}
